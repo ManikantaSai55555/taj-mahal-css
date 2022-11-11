@@ -6,12 +6,12 @@
   margin: 0;
 }
 
-.arches {
+/* .arches {
   position: absolute;
   left: 15%;
   top: 55%;
-}
-.arches .arch {
+} */
+/* .arches .arch {
   border-left: 3px solid #e7e7e7;
   border-right: 3px solid #e7e7e7;
   border-top: 15px solid #e7e7e7;
@@ -20,7 +20,7 @@
   border-radius: 50% 50% 0 0;
   float: left;
   display: inline-block;
-}
+} */
 .arches .arch:first-child {
   border-color: #dcdcdc;
 }
